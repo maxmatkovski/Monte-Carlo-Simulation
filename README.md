@@ -130,10 +130,15 @@ def simulate_blackjack(num_iterations, player_cutoff):
 
 ## Results
 ![Image](Image1.png)
+
 **1000000 games of black jack hitting on 15.**
+
 Player Win Rate: 42.53%
+
 Dealer Win Rate: 49.30%
+
 Tie Rate: 8.16%
+
 Compute time -- 27.328053951263428 seconds.%
 
 ![Image](Image2.png)
