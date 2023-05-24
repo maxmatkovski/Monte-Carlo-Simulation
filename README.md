@@ -139,39 +139,67 @@ Dealer Win Rate: 49.30%
 
 Tie Rate: 8.16%
 
-Compute time -- 27.328053951263428 seconds.%
+Compute time -- 27.328053951263428 seconds.
+
 
 ![Image](Image2.png)
+
 **1000000 games of black jack hitting on 16.**
+
 Player Win Rate: 42.00%
+
 Dealer Win Rate: 49.19%
+
 Tie Rate: 8.80%
-Compute time -- 27.450416564941406 seconds.%
+
+Compute time -- 27.450416564941406 seconds.
+
 
 ![Image](Image3.png)
 **1000000 games of black jack hitting on 17.**
+
 Player Win Rate: 41.06%
+
 Dealer Win Rate: 51.67%
+
 Tie Rate: 7.27%
-Compute time -- 27.982442378997803 seconds.%
+
+Compute time -- 27.982442378997803 seconds.
+
 
 ![Image](Image4.png)
+
 **1000000 games of black jack hitting on 18.**
+
 Player Win Rate: 37.41%
+
 Dealer Win Rate: 56.99%
+
 Tie Rate: 5.60%
-Compute time -- 27.743481874465942 seconds.%
+
+Compute time -- 27.743481874465942 seconds.
+
 
 ![Image](Image5.png)
+
 **1000000 games of black jack hitting on 19.**
+
 Player Win Rate: 30.59%
+
 Dealer Win Rate: 65.67%
+
 Tie Rate: 3.74%
-Compute time -- 27.976853132247925 seconds.%
+
+Compute time -- 27.976853132247925 seconds.
+
 
 ![Image](Image6.png)
 **1000000 games of black jack hitting on 20.**
+
 Player Win Rate: 17.26%
+
 Dealer Win Rate: 82.74%
+
 Tie Rate: 0.00%
-Compute time -- 28.66124677658081 seconds.%
+
+Compute time -- 28.66124677658081 seconds.
