@@ -129,7 +129,7 @@ def simulate_blackjack(num_iterations, player_cutoff):
 ```
 
 ## Results
-![Image](Image1.png)
+![Image](Images/Image1.png)
 
 **1000000 games of black jack hitting on 15.**
 
@@ -142,7 +142,7 @@ Tie Rate: 8.16%
 Compute time -- 27.328053951263428 seconds.
 
 
-![Image](Image2.png)
+![Image](Images/Image2.png)
 
 **1000000 games of black jack hitting on 16.**
 
@@ -155,7 +155,7 @@ Tie Rate: 8.80%
 Compute time -- 27.450416564941406 seconds.
 
 
-![Image](Image3.png)
+![Image](Images/Image3.png)
 
 **1000000 games of black jack hitting on 17.**
 
@@ -168,7 +168,7 @@ Tie Rate: 7.27%
 Compute time -- 27.982442378997803 seconds.
 
 
-![Image](Image4.png)
+![Image](Images/Image4.png)
 
 **1000000 games of black jack hitting on 18.**
 
@@ -181,7 +181,7 @@ Tie Rate: 5.60%
 Compute time -- 27.743481874465942 seconds.
 
 
-![Image](Image5.png)
+![Image](Images/Image5.png)
 
 **1000000 games of black jack hitting on 19.**
 
@@ -194,7 +194,7 @@ Tie Rate: 3.74%
 Compute time -- 27.976853132247925 seconds.
 
 
-![Image](Image6.png)
+![Image](Images/Image6.png)
 
 **1000000 games of black jack hitting on 20.**
 
