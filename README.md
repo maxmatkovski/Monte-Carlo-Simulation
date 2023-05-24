@@ -156,6 +156,7 @@ Compute time -- 27.450416564941406 seconds.
 
 
 ![Image](Image3.png)
+
 **1000000 games of black jack hitting on 17.**
 
 Player Win Rate: 41.06%
@@ -194,6 +195,7 @@ Compute time -- 27.976853132247925 seconds.
 
 
 ![Image](Image6.png)
+
 **1000000 games of black jack hitting on 20.**
 
 Player Win Rate: 17.26%
