@@ -128,5 +128,5 @@ def simulate_blackjack(num_iterations, player_cutoff):
 
 ```
 
-
-[Image](Image1.png)
+## Results
+![Image](Image1.png)
